@@ -1,6 +1,4 @@
 # StudentManagement
-student management system using java
-
 The Student Management System allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a student database. It provides a GUI interface where users can input student information such as name, age, gender, percentage, and attendance. Users can fetch all existing student records, insert new records, delete existing records by ID, and update existing records by ID
 
 Technologies Used:
